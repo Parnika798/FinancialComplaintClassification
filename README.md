@@ -22,7 +22,7 @@ This is the original, unprocessed dataset.
 This dataset has been preprocessed and cleaned by the `01-data-cleaning.ipynb` notebook. If you don't want to run the cleaning notebook yourself, you can download the final file here.
 
 * **File:** `cleaned_complaints.xlsx`
-* **Download:** **[<<< https://kaggle.com/datasets/6f0867ba82eaed80e6b28448385a4b7723b7d0c8abb0b8caeff64ceaa1e20563 >>>]**
+* **Download:** https://kaggle.com/datasets/6f0867ba82eaed80e6b28448385a4b7723b7d0c8abb0b8caeff64ceaa1e20563
 
 ### 3. Translated Data
 
