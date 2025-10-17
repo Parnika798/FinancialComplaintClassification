@@ -38,7 +38,7 @@ This dataset contains a sample of complaints translated into multiple languages 
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/Parnika798/FinancialComplaintClassification.git](https://github.com/Parnika798/FinancialComplaintClassification.git)
-    cd ComplaintClassification
+    cd FinancialComplaintClassification
     ```
 
 2.  **Create a virtual environment (Recommended):**
