@@ -15,7 +15,7 @@ To run this project, you must download the necessary files and place them in the
 This is the original, unprocessed dataset.
 
 * **File:** `consumercomplaints.xlsx`
-* **Download:** **[<<< PASTE YOUR LINK to the raw Kaggle/data page HERE >>>]**
+* **Download:** https://www.kaggle.com/datasets/selener/consumer-complaint-database
 
 ### 2. Cleaned Data
 
@@ -37,7 +37,7 @@ This dataset contains a sample of complaints translated into multiple languages 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/ComplaintClassification.git](https://github.com/YOUR-USERNAME/ComplaintClassification.git)
+    git clone [https://github.com/Parnika798/FinancialComplaintClassification.git](https://github.com/Parnika798/FinancialComplaintClassification.git)
     cd ComplaintClassification
     ```
 
