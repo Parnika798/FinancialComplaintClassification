@@ -29,7 +29,7 @@ This dataset has been preprocessed and cleaned by the `01-data-cleaning.ipynb` n
 This dataset contains a sample of complaints translated into multiple languages for bilingual modeling.
 
 * **File:** `sample_top5_translated.csv`
-* **Download:** **[<<< https://kaggle.com/datasets/3b4026e9db93a6c34084f7348372806e64d1fd26b3bffe14a72cad8e78f7ae62 >>>]**
+* **Download:** https://kaggle.com/datasets/3b4026e9db93a6c34084f7348372806e64d1fd26b3bffe14a72cad8e78f7ae62
 
 ---
 
