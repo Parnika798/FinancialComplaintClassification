@@ -60,23 +60,5 @@ This dataset contains a sample of complaints translated into multiple languages 
 
 ---
 
-## 📂 Project Structure
 
-```
-ComplaintClassification/
-├── .gitignore          # Tells Git what to ignore (like the /data folder)
-├── README.md           # You are here!
-├── requirements.txt    # List of all Python libraries
-│
-├── data/               # (Ignored by Git) Stores all raw and processed data
-│   ├── consumercomplaints.xlsx
-│   └── cleaned_complaints.xlsx
-│
-├── notebooks/          # All Jupyter notebooks for analysis and modeling
-│   ├── 01_Data_Cleaning.ipynb
-│   └── 02_Model_Training.ipynb
-│
-└── src/                # All Python source code
-    ├── __init__.py
-    └── config.py       # Manages all file paths
 ```
